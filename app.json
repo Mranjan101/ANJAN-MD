@@ -1,8 +1,8 @@
 {
-  "name": "PRABATH-MD (2.1.1)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "name": "ANJAN-MD (2.0)",
+  "description": "ANJAN-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://telegra.ph/file/f49363a5e01c72a46eec3.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "anjan-md"],
   "success_url": "/",
 
   "env": {
